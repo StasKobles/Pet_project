@@ -1,4 +1,6 @@
 {
   "typescript.tsdk": "node_modules/typescript/lib",
-  "cSpell.words": ["svgr"]
+  "cSpell.words": ["svgr"],
+  "i18n-ally.localesPaths": ["public/locales"],
+  "i18n-ally.keystyle": "nested"
 }
