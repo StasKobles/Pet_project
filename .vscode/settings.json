@@ -4,10 +4,21 @@
     "pmmmwh",
     "svgr"
   ],
-  "i18n-ally.localesPaths": ["public/locales"],
+  "i18n-ally.localesPaths": [
+    "public/locales"
+  ],
   "i18n-ally.keystyle": "nested",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "eslint.validate": ["javascript"]
+  "eslint.validate": [
+    "javascript"
+  ],
+  "stylelint.enable": true,
+  "css.validate": true,
+  "scss.validate": true,
+  "stylelint.validate": [
+    "css",
+    "scss"
+  ],
 }
