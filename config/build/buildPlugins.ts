@@ -8,7 +8,9 @@ import {
 } from 'webpack';
 import { BuildOptions } from './types/config';
 
-const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin');
+const ReactRefreshWebpackPlugin = require(
+    '@pmmmwh/react-refresh-webpack-plugin',
+);
 
 export function buildPlugins({
     paths,
