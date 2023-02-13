@@ -9,7 +9,8 @@
   ],
   "i18n-ally.keystyle": "nested",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.stylelint": true,
+    "source.fixAll.eslint": true,
   },
   "eslint.validate": [
     "javascript"

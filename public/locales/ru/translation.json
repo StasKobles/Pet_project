@@ -5,5 +5,7 @@
   "sidebar_button": "Скрыть",
   "About page": "О странице",
   "Loading": "Загрузка...",
-  "Page not found": "Страница не найдена"
+  "Page not found": "Страница не найдена",
+  "Unexpected Error": "Неожиданная ошибка",
+  "Reload page": "Перезагрузить страницу"
 }

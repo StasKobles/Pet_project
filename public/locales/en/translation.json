@@ -5,5 +5,7 @@
   "Main Page": "Main Page",
   "sidebar_button": "Hide",
   "Loading": "Loading...",
-  "Page not found": "Page not found"
+  "Page not found": "Page not found",
+  "Unexpected Error": "Unexpected Error",
+  "Reload page": "Reload page"
 }
