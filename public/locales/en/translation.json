@@ -1,12 +1,15 @@
 {
   "test translation": "Test translation",
   "Translate": "Translate",
-  "Short language":"RU",
+  "Short language": "RU",
   "About page": "About page",
   "Main Page": "Main Page",
   "sidebar_button": "Hide",
   "Loading": "Loading...",
   "Page not found": "Page not found",
   "Unexpected Error": "Unexpected Error",
-  "Reload page": "Reload page"
+  "Reload page": "Reload page",
+  "increment": "Increment",
+  "decrement": "Decrement",
+  "value": "Value"
 }
