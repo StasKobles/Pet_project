@@ -11,5 +11,8 @@
   "Short language": "EN",
   "increment": "Увеличение",
   "decrement": "Уменьшение",
-  "value": "Ценить"
+  "value": "Ценить",
+  "Log in": "Авторизоваться",
+  "Login": "Авторизоваться",
+  "Password": "Пароль"
 }
