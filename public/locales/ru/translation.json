@@ -14,5 +14,8 @@
   "value": "Ценить",
   "Log in": "Авторизоваться",
   "Login": "Авторизоваться",
-  "Password": "Пароль"
+  "Password": "Пароль",
+  "Auth form": "Форма авторизации",
+  "Incorrect username or password": "Неверное имя пользователя или пароль",
+  "Log out": "Выйти"
 }
