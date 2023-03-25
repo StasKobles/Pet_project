@@ -1,9 +1,9 @@
 import { RuleSetRule } from 'webpack';
-import { buidCssLoader } from './loaders/buildCssLoaders';
+import { buildCssLoader } from './loaders/buildCssLoaders';
 import { BuildOptions } from './types/config';
 
 export function buildLoaders({ isDev }: BuildOptions): RuleSetRule[] {
-    const cssLoader = buidCssLoader(isDev);
+    const cssLoader = buildCssLoader(isDev);
     const babelLoader = {
         test: /\.(js|jsx|tsx)$/,
         exclude: /node_modules/,
