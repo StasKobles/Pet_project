@@ -2,5 +2,13 @@
   "Profile": "Profile",
   "Edit": "Edit",
   "Your name": "Your name",
-  "Your surname": "Your surname"
+  "Your surname": "Your surname",
+  "Error while loading profile data": "Error while loading profile data",
+  "Try to reload page": "Try to reload page",
+  "Cancel": "Cancel",
+  "Save": "Save",
+  "Your age": "Your age",
+  "Your city": "Your city",
+  "Your username": "Your username",
+  "Your avatar": "Your avatar"
 }

@@ -2,5 +2,13 @@
   "Edit": "Редактировать",
   "Profile": "Профиль",
   "Your name": "Ваше имя",
-  "Your surname": "Ваша фамилия"
+  "Your surname": "Ваша фамилия",
+  "Error while loading profile data": "Ошибка при загрузке данных профиля",
+  "Try to reload page": "Попробуйте перезагрузить страницу",
+  "Your avatar": "Ваш аватар",
+  "Your city": "Ваш город",
+  "Save": "Сохранять",
+  "Your age": "Ваш возраст",
+  "Cancel": "Отмена",
+  "Your username": "Ваш логин"
 }
