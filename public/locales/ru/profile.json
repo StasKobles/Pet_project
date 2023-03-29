@@ -10,5 +10,10 @@
   "Save": "Сохранять",
   "Your age": "Ваш возраст",
   "Cancel": "Отмена",
-  "Your username": "Ваш логин"
+  "Your username": "Ваш логин",
+  "First name and lastname are required": "Имя и фамилия обязательны",
+  "Incorrect age": "Неверный возраст",
+  "Incorrect country": "Неверная страна",
+  "No data is specified": "Данные не указаны",
+  "Server error": "Ошибка сервера"
 }
