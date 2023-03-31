@@ -1,7 +1,7 @@
 import React from 'react';
-import AboutIcon from 'shared/assets/AboutPageLogo.svg';
-import MainIcon from 'shared/assets/MainPageLogo.svg';
-import ProfileIcon from 'shared/assets/ProfilePageLogo.svg';
+import AboutIcon from 'shared/assets/icons/AboutPageLogo.svg';
+import MainIcon from 'shared/assets/icons/MainPageLogo.svg';
+import ProfileIcon from 'shared/assets/icons/ProfilePageLogo.svg';
 import { RoutePath } from 'shared/config/routeConfig/routeConfig';
 
 export interface SidebarItemType {

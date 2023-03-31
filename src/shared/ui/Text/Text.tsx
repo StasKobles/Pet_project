@@ -25,7 +25,7 @@ export const Text = memo((props:TextProps) => {
         className,
         text, title,
         theme = TextTheme.NORMAL,
-        align = TextAlign.CENTER,
+        align = TextAlign.LEFT,
     } = props;
 
     return (
