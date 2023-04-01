@@ -3,7 +3,7 @@ import { Theme } from 'app/providers/ThemeProvider';
 import 'app/styles/index.scss';
 import React from 'react';
 import { ThemeDecorator } from 'shared/config/storybook/ThemeDecorator/ThemeDecorator';
-import { Text, TextTheme } from './Text';
+import { Text, TextSize, TextTheme } from './Text';
 
 export default {
     title: 'shared/Text',
@@ -60,3 +60,10 @@ OnlyTextDark.args = {
     text: 'text lorem1',
 };
 OnlyTextDark.decorators = [ThemeDecorator(Theme.DARK)];
+
+export const SizeL = Template.bind({});
+SizeL.args = {
+    title: 'Title',
+    text: 'text lorem1',
+    size: TextSize.L,
+};

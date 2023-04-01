@@ -34,7 +34,7 @@ export enum ArticleType {
     ECONOMICS = 'ECONOMICS',
 }
 export interface Article {
-    id: number;
+    id: number | string;
     title: string;
     subtitle: string;
     img: string;
@@ -42,5 +42,4 @@ export interface Article {
     createdAt: string;
     type:ArticleType[];
     blocks: ArticleBlock[];
-
 }
