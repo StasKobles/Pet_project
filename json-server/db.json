@@ -19,7 +19,9 @@
       "img": "https://teknotower.com/wp-content/uploads/2020/11/js.png",
       "views": 1022,
       "createdAt": "26.02.2022",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -100,6 +102,12 @@
       "text": "some comment 3",
       "articleId": "1",
       "userId": "1"
+    },
+    {
+      "articleId": "1",
+      "userId": "1",
+      "text": "post 123",
+      "id": "YEHjW9b"
     }
   ],
   "users": [
@@ -109,7 +117,6 @@
       "password": "123",
       "role": "ADMIN",
       "avatar": "https://blog.cdn.own3d.tv/resize=fit:crop,height:400,width:600/7xvA061T3WpJ8w7aqx8m"
-
     },
     {
       "id": "2",
@@ -117,19 +124,30 @@
       "password": "123",
       "role": "USER",
       "avatar": "https://i.redd.it/89pllwdgm5f41.jpg"
-
     }
   ],
-  "profile": {
-    "first": "Stas",
-    "lastname": "Kobles",
-    "age": 22,
-    "currency": "GEL",
-    "country": "Georgia",
-    "city": "Moscow",
-    "username": "admin",
-    "avatar": "https://blog.cdn.own3d.tv/resize=fit:crop,height:400,width:600/7xvA061T3WpJ8w7aqx8m"
-  }
+  "profile": [
+    {
+      "id": "1",
+      "first": "Stas",
+      "lastname": "Kobles",
+      "age": 22,
+      "currency": "GEL",
+      "country": "Georgia",
+      "city": "Batumi",
+      "username": "admin",
+      "avatar": "https://blog.cdn.own3d.tv/resize=fit:crop,height:400,width:600/7xvA061T3WpJ8w7aqx8m"
+    },
+    {
+      "id": "2",
+      "first": "Stepa",
+      "lastname": "Cherevatenko",
+      "age": 22,
+      "currency": "RUB",
+      "country": "Russia",
+      "city": "Moscow",
+      "username": "user",
+      "avatar": "https://i.redd.it/89pllwdgm5f41.jpg"
+    }
+  ]
 }
-
-
