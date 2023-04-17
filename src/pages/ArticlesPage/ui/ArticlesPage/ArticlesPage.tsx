@@ -1,3 +1,5 @@
+import { Article, ArticleList } from 'entities/Article';
+import { ArticleBlockType, ArticleType, ArticleView } from 'entities/Article/model/types/article';
 import { FC, memo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { classNames } from 'shared/lib/classNames/classNames';
@@ -12,7 +14,11 @@ const ArticlesPage: FC<ArticlesPageProps> = (props) => {
 
     return (
         <div className={classNames('', {}, [className])}>
-            {t('Articles Page')}
+            <ArticleList
+                isLoading
+                view={ArticleView.BIG}
+                articles={[]}
+            />
         </div>
     );
 };
