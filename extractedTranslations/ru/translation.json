@@ -4,6 +4,7 @@
   "Article not found": "Article not found",
   "Articles Page": "Articles Page",
   "Auth form": "Auth form",
+  "Back to articles": "Back to articles",
   "Cancel": "Cancel",
   "Comments": "Comments",
   "Edit": "Edit",
@@ -25,6 +26,13 @@
   "Post": "Post",
   "Profile": "Profile",
   "Profile page": "Profile page",
+  "Read more": {
+    "": {
+      "": {
+        "": ""
+      }
+    }
+  },
   "Reload page": "Reload page",
   "Save": "Save",
   "Server error": "Server error",

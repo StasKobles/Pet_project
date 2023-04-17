@@ -6,6 +6,7 @@ import { articleDetailsReducer } from './articleDetailsSlice';
 const data: Article = {
     id: '1',
     title: 'subtitle',
+    user: { id: '', username: '' },
     blocks: [],
     createdAt: ' ',
     img: ' ',
